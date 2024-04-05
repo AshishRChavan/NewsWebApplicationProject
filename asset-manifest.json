@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.d3314aaf.js",
+    "static/js/787.16a592cf.chunk.js": "/static/js/787.16a592cf.chunk.js",
+    "static/media/Running deer.gif": "/static/media/Running deer.7e4e564d2e2aaa2fd870.gif",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.d3314aaf.js.map": "/static/js/main.d3314aaf.js.map",
+    "787.16a592cf.chunk.js.map": "/static/js/787.16a592cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d3314aaf.js"
+  ]
+}
